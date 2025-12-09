@@ -18,7 +18,7 @@ export default function Hero() {
 
         <div className="mt-8 flex gap-3">
           <Link href="/final-design" className="rounded-2xl px-5 py-3 bg-black text-white">
-            Final Design
+            Proposed Design
           </Link>
           <Link href="/results" className="rounded-2xl px-5 py-3 border">
             Results

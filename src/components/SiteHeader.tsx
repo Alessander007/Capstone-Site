@@ -41,7 +41,7 @@ export default function SiteHeader() {
                 <NavigationMenuTrigger>Design</NavigationMenuTrigger>
                 <NavigationMenuContent>
                   <div className="grid gap-2 p-4 w-[340px]">
-                    <NavLink href="/final-design" title="Final Design" desc="System architecture & CAD" />
+                    <NavLink href="/final-design" title="Proposed Design" desc="System architecture & CAD" />
                     <NavLink href="/manufacturing" title="Manufacturing" desc="Build notes & BOM" />
                     <NavLink href="/condenser" title="Condenser" desc="Trade study & analysis" />
                   </div>
