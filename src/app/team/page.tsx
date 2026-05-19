@@ -79,11 +79,11 @@ export default function Team() {
       <TeamHero />
 
       <main className="mx-auto max-w-6xl px-6 pb-20">
-        {/* <p className="text-lg text-zinc-700 max-w-3xl">
+        <p className="text-lg text-zinc-700 max-w-3xl">
         Our mechanical engineering capstone team collaboratively designed,
         analyzed, and delivered a solar-powered desalination system focused on
         simplicity, manufacturability, and reliability.
-        </p> */}
+        </p> 
 
         {/* Perfectly centered card layout */}
         <div className="mt-12 flex flex-wrap justify-center gap-6">
