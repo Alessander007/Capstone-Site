@@ -7,7 +7,7 @@ export default function SponsorGrid({ items = [] as Item[] }: { items?: Item[] }
   if (!Array.isArray(items) || items.length === 0) {
     return (
       <div className="text-sm text-zinc-500">
-        No sponsors yet — add logos to <code>/public/sponsors/</code> and update the array.
+        No sponsors yet - add logos to <code>/public/sponsors/</code> and update the array.
       </div>
     );
   }
